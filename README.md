@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# fordgobike dataset - Data Exploration
+## by Divya Prasanth
 
 
 ## Dataset
@@ -42,7 +42,7 @@ For the extreme group, the distribution looks normal with peak ocurring at 1pm
 
 ## Key Insights for Presentation
 
-> In the presentation, I intend to show how variables are associated with the duration
-> In the first visual, I intend to show how the duration is associated with age
+> In the presentation, I want to show how variables are associated with the duration
+> In the first visual, I want to show how the duration is associated with age
 > In the Second visual, I intend to show how the duration is associated with gender
 > In the third visual, I inted to show how the duration is associated with day of week, hour of day and user_type
